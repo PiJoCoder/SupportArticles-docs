@@ -18,7 +18,7 @@ You're running a Windows 11 machine with SQL Server installed with the [SQL Serv
 ``` 
 
 > [!NOTE]
-> This issue doesn't impact Windows Server operating systems.
+> This issue doesn't impact Windows Server operating systems.fdsafdsaf
 
 ## Cause
 
